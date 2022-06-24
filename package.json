@@ -13,7 +13,7 @@
     "cheerio": "^1.0.0-rc.3",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
-    "jsdom": "^16.3.0",
+    "jsdom": "^16.5.0",
     "puppeteer": "^5.2.1",
     "puppeteer-extra": "^3.1.13",
     "puppeteer-extra-plugin-recaptcha": "^3.1.14"
